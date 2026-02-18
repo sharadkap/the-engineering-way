@@ -1,4 +1,4 @@
-# Engineering the Sapient Way.
+# Engineering Way.
 
 A [PS](who-we-are.md) engineer working for an Australian project:
 
